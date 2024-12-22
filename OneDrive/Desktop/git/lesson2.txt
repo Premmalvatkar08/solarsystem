@@ -1,0 +1,2 @@
+lesson 2 for git course
+adding new content for file
