@@ -62,5 +62,11 @@ print(type(a))
 
 #input() statement is used to accept values from user
 
-name = input("Enter your name :-")
-print("Hello ", name)
+# name = input("Enter your name :-")
+# print("Hello ", name)
+
+#practice set :- Write a program to input 2 number & print their sum.
+num1 = int(input("Enter first :- "))
+num2 = int(input("Enter second :- "))
+
+print("sum =", num1 + num2)
