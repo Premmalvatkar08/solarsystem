@@ -78,6 +78,5 @@ elif(b >= a and b >=c):
     print(b, "is the largest number.")
 elif(C >= a and c >= b):
     print(c, "is the largest number.")
-else:
-    print("Invalid input !!")
+
     
